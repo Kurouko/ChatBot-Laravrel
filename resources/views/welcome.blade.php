@@ -22,9 +22,9 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/assets/css/chat.min.css">
     <script>
 	    var botmanWidget = {
-	        aboutText: 'ssdsd',
-	        introMessage: "Chào bạn! Cảm ơn bạn đã đến với Website của chúng tôi. Tôi có thể giúp gì cho bạn hôm nay"
-	    };
+	        aboutText: 'Test',
+	        introMessage: "Chào bạn! Cảm ơn bạn đã đến với Website của chúng tôi. Tôi có thể giúp gì cho bạn hôm nay? <br> - Bạn muốn tìm sản phẩm? <br> - Bạn muốn được tư vấn trực tiếp? <br> - Bạn muốn được hỗ trợ chăm sóc khách hàng?"
+        };
     </script>
 
     <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
